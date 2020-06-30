@@ -1,2 +1,2 @@
-# Siraj
-ML Course
+
+ML Playground
